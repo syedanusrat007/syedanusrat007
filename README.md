@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/syeda-nusraht-khaledur/)
 <h1 align="center">Hi 👋, I'm Nusraht</h1>
-<h3 align="center">Full Stack Software Developer Building Gigital Solutions 💻🚀</h3>
+<h3 align="center">Full Stack Software Developer Building Digital Solutions 💻🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedanusrat007&label=Profile%20views&color=0e75b6&style=flat" alt="syedanusrat007" /> </p>
