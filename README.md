@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedanusrat007&label=Profile%20views&color=0e75b6&style=flat" alt="syedanusrat007" /> </p>
 
-- 🔭 I’m currently working on **Software Developer @ GlobeAir**
+- 🔭 I’m currently working on **Software Developer @ Moody's**
 
 - 🌱 I’m currently learning **DevSecOps & System Architecture**
 
